@@ -7,3 +7,6 @@ NAMA KELOMPOK:
 2. Nur Aini Rahayu
 3. Firas Husammudin Mumtaza
 4. Kevin Rivaldo Panggabean
+
+ Entity Relationship Diagram
+![image](https://user-images.githubusercontent.com/82790760/132793694-64a12b2e-e193-4135-baf5-251c4a9342fd.png)
